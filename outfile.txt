@@ -1,0 +1,39 @@
+The number of genes is 8
+The peptide count is 25
+The 75th percentile is at score 79.0
+Minimum:	6
+Maximum:	98
+Median:	50.0
+Mean:	52.24
+
+Below are the pep counts.
+KRAS:	3
+BRCA1:	7
+FOXP1:	0
+TP53:	1
+MAGEA4:	4
+CD40L:	3
+OR14J1:	3
+TAP1:	4
+
+Below are the 75th per. + counts.
+KRAS:	1
+BRCA1:	1
+FOXP1:	0
+TP53:	1
+MAGEA4:	4
+CD40L:	0
+OR14J1:	0
+TAP1:	0
+
+Below are the scales!
+MAGEA4:	0.11428571428571428
+KRAS:	0.016666666666666666
+TP53:	0.008695652173913044
+BRCA1:	0.005076142131979695
+
+Below are the ranks!
+MAGEA4:	1
+KRAS:	2
+TP53:	3
+BRCA1:	4
